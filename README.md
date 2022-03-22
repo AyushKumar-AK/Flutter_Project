@@ -5,7 +5,7 @@ A simple Flutter Tic tac toe game, which can be played by all age group, at anyt
 # Apk Link
 
 I have provided apk link for easy access to Tic-Tac-Toe game.
-[link]- (https://drive.google.com/file/d/1QPqEpjcRyvSPTOIpimjh1Tbxf1Oford8/view?usp=sharing)
+[link](https://drive.google.com/file/d/1QPqEpjcRyvSPTOIpimjh1Tbxf1Oford8/view?usp=sharing)
 
 ## Instalation
 
